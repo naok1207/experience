@@ -1,4 +1,6 @@
 # google charts memo
+[折れ線グラフ【Google Charts入門】- 配当金推移をチャート化する方法](https://uxbear.me/googlecharts-line/)
+
 ```
 // Visualization APIと、corechartパッケージをロードする
 // Google Chartのpackages(['corechart'])を指定
